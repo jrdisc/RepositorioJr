@@ -1,4 +1,4 @@
 <?php
-	echo "Hello word!"
+	echo "Hello word! Novo teste"
 
 ?>
